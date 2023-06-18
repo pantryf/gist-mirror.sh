@@ -1,6 +1,6 @@
 {
   "name": "devtools-gist-mirror",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mirror your GitHub gists into an organization.",
   "private": true,
   "main": "index.js",
@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/javascriptf/devtools-gist-mirror#readme",
   "dependencies": {
-    "@octokit/rest": "^19.0.13"
+    "@octokit/rest": "^20.0.2",
+    "extra-fs": "^3.2.17",
+    "extra-sleep": "^1.0.20"
   }
 }
