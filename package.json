@@ -1,0 +1,28 @@
+{
+  "name": "devtools-gist-mirror",
+  "version": "0.0.1",
+  "description": "Mirror your GitHub gists into an organization.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javascriptf/devtools-gist-mirror.git"
+  },
+  "keywords": [
+    "devtools",
+    "gist",
+    "mirror"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javascriptf/devtools-gist-mirror/issues"
+  },
+  "homepage": "https://github.com/javascriptf/devtools-gist-mirror#readme",
+  "dependencies": {
+    "@octokit/rest": "^19.0.13"
+  }
+}
