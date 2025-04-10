@@ -11,3 +11,5 @@ Mirror your GitHub gists into an organization.
 - [Filename too long in Git for Windows](https://stackoverflow.com/a/22575737/1413259)
 - [octokit/rest.js Docs](https://octokit.github.io/rest.js/v19)
 - [Gists - GitHub Docs](https://docs.github.com/en/rest/gists/gists)
+
+![](https://ga-beacon.deno.dev/G-4NEP5LC20N:1fbE9YTHTw2pzxI6HO33Mw/github.com/pantryf/gist-mirror.sh)
